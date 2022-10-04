@@ -4,7 +4,7 @@
 
 👨‍💻 In this project I mastered Javascript DOM skills. I used mainly JS-DOM. You can see image of the website below. The objective is to make diamond with star.
 
-[👍click here to see page](https://mmehel52.github.io/diamonddraw/)
+[👍click here to see page](https://kurtismail.github.io/draw_of_diamonds/)
 
 ## Demo
 
