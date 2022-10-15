@@ -6,7 +6,7 @@
 
 [👍click here to see page](https://kurtismail.github.io/draw_of_diamonds/)
 
-## Demo
+## Demo__>
 
 <img src="https://github.com/kurtismail/draw_of_diamonds/blob/main/1.png" width="900"/>
 
