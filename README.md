@@ -48,4 +48,4 @@
 
 👤 ismail KURT
 
-Github: [kurtismail](https://github.com/kurtismail)
+Github: [kurtismail](https://github.com/kurtismail).
